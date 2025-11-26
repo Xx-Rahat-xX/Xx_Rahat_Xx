@@ -1,1 +1,5 @@
-
+{
+  "rahat_api": "https://example.com/api?key=123456",
+  "dalle_api": "https://example.com/dalle?key=ABCDEF",
+  "sing_api": "https://example.com/sing?key=XYZ123"
+}
