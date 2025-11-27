@@ -1,5 +1,29 @@
 {
-  "rahat_api": "https://example.com/api?key=123456",
-  "dalle_api": "https://example.com/dalle?key=ABCDEF",
-  "sing_api": "https://example.com/sing?key=XYZ123"
+  "edit_api": [
+    "https://example.com/edit?key=AAA",
+    "https://example.com/edit?key=BBB",
+    "https://example.com/edit?key=CCC"
+  ],
+
+  "appi_api": [
+    "https://example.com/appi?key=111",
+    "https://example.com/appi?key=222",
+    "https://example.com/appi?key=333"
+  ],
+
+  "seen_api": [
+    "https://example.com/seen?key=XYZ",
+    "https://example.com/seen?key=ABC",
+    "https://example.com/seen?key=DEF"
+  ],
+
+  "dalle_api": [
+    "https://example.com/dalle?key=11111",
+    "https://example.com/dalle?key=22222"
+  ],
+
+  "text2img_api": [
+    "https://example.com/text2img?key=555",
+    "https://example.com/text2img?key=666"
+  ]
 }
