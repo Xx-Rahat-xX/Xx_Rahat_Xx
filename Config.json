@@ -1,13 +1,13 @@
 {
   "si_Xx_Rahat_Xx_Api": [
+    "https://example.com/edit?key=CCC",
     "https://api.noobs-api.rf.gd/dipto",
-    "https://example.com/edit?key=BBB",
     "https://example.com/edit?key=CCC"
   ],
 
   "vi_Xx_Rahat_Xx_api": [
+    "https://example.com/appi?key=333",
     "https://api.noobs-api.rf.gd/dipto",
-    "https://example.com/appi?key=222",
     "https://example.com/appi?key=333"
   ],
 
